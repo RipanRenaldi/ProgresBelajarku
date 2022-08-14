@@ -6,3 +6,6 @@ Berikut list untuk buah-buahan :
   2. Mangga
   3. Jeruk
   4. Anggur
+Disini ditambah list buah lagi
+  5. Manggis
+  6. Durian
