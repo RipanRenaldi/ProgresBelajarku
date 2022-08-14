@@ -20,3 +20,6 @@ Belajar kelas memulai pemrograman dengan java. (Progres 100%)
 - Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
 - Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
+
+**14 Agustus 2022**
+Mengikuti kelas Machine Learning dan Front End Web dalam program kampus merdeka / SIB x Dicoding angkatan / batch 3
