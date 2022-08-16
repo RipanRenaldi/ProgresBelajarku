@@ -12,4 +12,6 @@ sumber referensi untuk pembelajaran terdapat pada :
   
 Adapun Progress pembelajarannya yaitu sebagai berikut : 
   1. 15:10 (0%)
+  2. 1:15 (2:54.29)\
+
   
