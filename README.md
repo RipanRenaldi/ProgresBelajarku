@@ -13,5 +13,8 @@ sumber referensi untuk pembelajaran terdapat pada :
 Adapun Progress pembelajarannya yaitu sebagai berikut : 
   1. 15:10 (0%)
   2. 1:15 (2:54.29)\
-
   
+**17 Agustus 2022**\
+Melanjutkan progress belajar kemarin dan membuat project sederhana seperti : 
+ 1. [Temperatur Control App Menggunakan React (useState, useEffect)](https://github.com/RipanRenaldi/react-project/tree/main/temperature-control)
+
