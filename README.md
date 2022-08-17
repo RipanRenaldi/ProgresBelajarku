@@ -17,4 +17,5 @@ Adapun Progress pembelajarannya yaitu sebagai berikut :
 **17 Agustus 2022**\
 Melanjutkan progress belajar kemarin dan membuat project sederhana seperti : 
  1. [Temperatur Control App Menggunakan React (useState, useEffect)](https://github.com/RipanRenaldi/react-project/tree/main/temperature-control)
+ 2. Berlatih membuat navbar pada website tanpa perlu reload halaman (single landing page)
 
