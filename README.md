@@ -17,5 +17,9 @@ Adapun Progress pembelajarannya yaitu sebagai berikut :
 **17 Agustus 2022**\
 Melanjutkan progress belajar kemarin dan membuat project sederhana seperti : 
  1. [Temperatur Control App Menggunakan React (useState, useEffect)](https://github.com/RipanRenaldi/react-project/tree/main/temperature-control)
- 2. Berlatih membuat navbar pada website tanpa perlu reload halaman (single landing page)
+ 2. Berlatih membuat navbar pada website tanpa perlu reload halaman
 
+**18 Agustus 2022**\
+Melanjutkan progress belajar react dengan menonton video tutorial. Adapun progressnya sebagai berikut : 
+ 1. 23:55 (100%)
+ 2. Latihan implementasi React Routes,Route,Link,useState,useEffect,useParams << BrowserRouter(react-router-dom) dalam pembuatan aplikasi blog/article
